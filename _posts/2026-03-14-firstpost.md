@@ -14,3 +14,9 @@ date: 2026-03-14
 💵 **Try my invoices app:**
 
 <https://lukeizcool.github.io/superinvoices/>
+
+## Super Assets
+
+📦 **Try my assets app:**
+
+<https://lukeizcool.github.io/superassets/cl.html>
