@@ -5,7 +5,8 @@ date: 2026-03-14
 
 ## Smash the House Demo
 
-🎮 **Play the demo:**  
+🎮 **Play the demo:**
+
 <https://lukeizcool.github.io/smashthehouse/game.html>
 
 ## Super Invoices
