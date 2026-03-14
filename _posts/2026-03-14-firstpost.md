@@ -8,7 +8,7 @@ date: 2026-03-14
 🎮 **Play the demo:**  
 <https://lukeizcool.github.io/smashthehouse/game.html>
 
-##Super Invoices##
+## Super Invoices
 
 💵 **Try my invoices app**
 <https://lukeizcool.github.io/superinvoices/>
