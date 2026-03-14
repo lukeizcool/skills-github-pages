@@ -11,6 +11,6 @@ date: 2026-03-14
 
 ## Super Invoices
 
-💵 **Try my invoices app**
+💵 **Try my invoices app:**
 
 <https://lukeizcool.github.io/superinvoices/>
